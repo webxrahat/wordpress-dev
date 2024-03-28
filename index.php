@@ -9,5 +9,9 @@
     <?php
     echo "<h1>frist time print php</h1>";
     ?>
+   <?php
+   $name= "rahat"
+   echo $name
+   ?>
 </body>
 </html>

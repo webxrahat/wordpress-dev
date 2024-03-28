@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #MyHeader {
+    background-color: transparent;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transition: background-color 0.3s ease;
+  }
+  
+  .content {
+    height: 2000px; /* Just for demonstration purpose */
+  }
+  
